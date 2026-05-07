@@ -6,11 +6,11 @@ I'm **Joel**, a student developer from Chennai, Tamil Nadu, India who loves buil
 
 Right now, I'm focused on:
 
-- 🌐 Learning Full stack development
+- 🌐 Learning to make apps using Dart
 
-- 🧠 Building useful AI-powered tools
+- 🧠 Building useful IoT Projects
 
-- 🚀 Open source learning
+- 🚀 Self learning
 
 - 📚 Growing through real projects instead of tutorial hell
 
@@ -25,7 +25,7 @@ Right now, I'm focused on:
 
 - Python
 
-- JavaScript
+- Dart
 
 - HTML / CSS
 
