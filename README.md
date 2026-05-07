@@ -1,16 +1,10 @@
 ## Hi there 👋
 
-
-**joelvarghese-tech/joelvarghese-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a app called "Remembr"
+- 🔭 I’m currently working on a app called "Remembr" which remindes
 - 🌱 I’m currently learning Python and Dart
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on making IoT projects
+- 🤔 I’m looking for help with 
+- 📫 Reach out to me on [![Instagram](https://img.shields.io/badge/Instagram-%40yourusername-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/g_s.c.17)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact:I'm a Musician!
 -->
