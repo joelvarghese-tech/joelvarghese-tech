@@ -101,12 +101,9 @@ If you'd like to help with my projects or collaborate, feel free to reach out.
 
 # 📫 Reach Me
 
+- Instagram: @g_s.c.17
 
-- GitHub: YOUR_GITHUB_LINK
-
-- Instagram: YOUR_INSTAGRAM_LINK
-
-- Email: YOUR_EMAIL
+- Email: joelvarghese.tech@gmail.com
 
 
 ---
