@@ -98,6 +98,7 @@ If you'd like to help with my projects or collaborate, feel free to reach out.
 # 📫 Reach Me
 
 - Instagram: @g_s.c.17
+https://www.instagram.com/g_s.c.17?igsh=eHpmazJ4YjIzd2Jh
 
 - Email: joelvarghese.tech@gmail.com
 
