@@ -1,22 +1,128 @@
-<h1 align="center">Hi 👋, I'm Joel</h1>
-<h3 align="center">A passionate Highschooler from India</h3>
+ # Hey there 👋
 
-- 🔭 I’m currently working on a app called **remembr**
 
-- 🌱 I’m currently learning **Python,Dart and C++**
+I'm **Joel**, a student developer from Chennai, Tamil Nadu, India who loves building things, learning deeply, and experimenting with tech.
 
-- 👯 I’m looking to collaborate on **IoT Projects**
 
-- 📫 Reach out to me: **joelvarghese.tech@gmail.com or DM me**
+Right now, I'm focused on:
 
-- ⚡ Fun fact **I'm a musician**
+- 🌐 Full stack development
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/g_s.c.17" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="g_s.c.17" height="40" width="40" /></a>
-</p>
+- 🧠 Building useful AI-powered tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 🚀 Open source learning
 
+- 📚 Growing through real projects instead of tutorial spam
+
+
+---
+
+
+# 🛠 Tech Stack
+
+
+## Languages
+
+- Python
+
+- JavaScript
+
+- HTML / CSS
+
+- Basic C++
+
+
+## Tools & Platforms
+
+- Git & GitHub
+
+- Figma
+
+- Arduino
+
+- Replit
+
+- VS Code
+
+
+---
+
+
+# 🚧 Current Project
+
+
+## Past Me
+
+A productivity + journaling app focused on resurfacing important thoughts, goals, and ideas at the right time.
+
+
+### Goals
+
+- Smart reminders
+
+- AI-assisted reflections
+
+- Clean and distraction-free UI
+
+- Actually useful productivity system
+
+
+---
+
+
+# 📈 What I'm Learning
+
+
+- Full stack web development
+
+- Better UI/UX design
+
+- Backend architecture
+
+- Open source collaboration
+
+- Real-world software engineering workflows
+
+
+---
+
+
+# 🤝 Open Source
+
+
+I'm interested in collaborating, learning from others, and contributing to meaningful projects.
+
+
+If you'd like to help with my projects or collaborate, feel free to reach out.
+
+
+---
+
+
+# 📫 Reach Me
+
+
+- GitHub: YOUR_GITHUB_LINK
+
+- Instagram: YOUR_INSTAGRAM_LINK
+
+- Email: YOUR_EMAIL
+
+
+---
+
+
+# ⚡ Fun Facts
+
+
+- I enjoy building ambitious projects even before I fully know how 😄
+
+- I like visual, hands-on learning
+
+- I prefer making things that feel real and useful
+
+
+---
+
+
+> "Build first. Learn aggressively. Improve continuously." 
