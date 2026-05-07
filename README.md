@@ -6,13 +6,13 @@ I'm **Joel**, a student developer from Chennai, Tamil Nadu, India who loves buil
 
 Right now, I'm focused on:
 
-- 🌐 Full stack development
+- 🌐 Learning Full stack development
 
 - 🧠 Building useful AI-powered tools
 
 - 🚀 Open source learning
 
-- 📚 Growing through real projects instead of tutorial spam
+- 📚 Growing through real projects instead of tutorial hell
 
 
 ---
@@ -36,11 +36,7 @@ Right now, I'm focused on:
 
 - Git & GitHub
 
-- Figma
-
 - Arduino
-
-- Replit
 
 - VS Code
 
@@ -73,7 +69,7 @@ A productivity + journaling app focused on resurfacing important thoughts, goals
 # 📈 What I'm Learning
 
 
-- Full stack web development
+- Flutter app development
 
 - Better UI/UX design
 
