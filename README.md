@@ -38,6 +38,8 @@ Right now, I'm focused on:
 
 - Arduino
 
+- Freecodecamp
+
 - VS Code
 
 
@@ -74,8 +76,6 @@ A productivity + journaling app focused on resurfacing important thoughts, goals
 - Better UI/UX design
 
 - Backend architecture
-
-- Open source collaboration
 
 - Real-world software engineering workflows
 
@@ -117,6 +117,3 @@ https://www.instagram.com/g_s.c.17?igsh=eHpmazJ4YjIzd2Jh
 
 
 ---
-
-
-> "Build first. Learn aggressively. Improve continuously." 
